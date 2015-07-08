@@ -1,2 +1,5 @@
 # hello-world
-First Reository
+
+Hi,
+This has potential.
+
